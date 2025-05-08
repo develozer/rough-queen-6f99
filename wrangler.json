@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "rough-queen-6f99",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bd12390e-22bf-4395-9193-952802c5640b",
+      "database_name": "silent-resonance-284e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
